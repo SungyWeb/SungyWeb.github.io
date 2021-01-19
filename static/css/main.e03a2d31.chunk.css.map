@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/global.css","webpack://src/components/Layout/index.css"],"names":[],"mappings":"AAIA,YACE,WACF,CCNA,WACE,UAAc,CACd,qBAAsB,CACtB,cACF","file":"main.e03a2d31.chunk.css","sourcesContent":[".h100 {\n  height: 100%;\n}\n\n#root {\n  height: 100%;\n}\n",".logo-text {\n  color: #ffffff;\n  vertical-align: middle;\n  font-size: 20px;\n}\n"]}
